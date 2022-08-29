@@ -18,6 +18,33 @@ There are many reasons why you might want to try crypto arbitrage, including:
 When comparing small exchanges and large exchanges, most arbitrage opportunities can be found, because the difference in activity means that the price of small exchanges will not change from second to second.
 For example, we will use [Binance](https://accounts.binance.me/fr/register?ref=G3S7FZ60) and kudx exchanges: 
 
-# Step 1 - compare exchange price
+# Step 1
+Compare exchange price
+<img src="https://i.ibb.co/tLqTMQJ/Screenshot-6-png-c4b8ba978749d01bb85c3ead7ed417be.png" alt="Compare" width="3000" align="center"/> 
+ 
+# Step 2
+We buy 1 btc at a price of $24,257 USDT the [Binance](https://accounts.binance.me/fr/register?ref=G3S7FZ60) exchange
 
- <img src="https://i.ibb.co/tLqTMQJ/Screenshot-6-png-c4b8ba978749d01bb85c3ead7ed417be.png" alt="Dogecoin" width="3000" align="center"/> 
+# Step 3
+We transfer btc to kudx. com exchange
+
+# Step 4
+We sell 1 btc at a price (Market order) of $25,845 USDT on the kudx. com exchange
+
+Our profit is $1,588 After all these steps, we transfer our USDT to the [Binance](https://accounts.binance.me/fr/register?ref=G3S7FZ60) exchange or any platform
+
+# Lets look at my example:
+I made a deposit 21.8$
+<img src="https://i.ibb.co/kqxPGyt/Screenshot-3.png" alt="Deposit" width="3000" align="center"/>
+<img src="https://i.ibb.co/ftNZkL6/Screenshot-18.png" alt="Deposit" width="3000" align="center"/> 
+then withdraw 23.7$ ≈ 1.9$ profit trade
+
+Now i deposit 267$
+<img src="https://i.ibb.co/b1Cz6wc/Screenshot-4.png" alt="Deposit" width="3000" align="center"/>
+<img src="https://i.ibb.co/GsZ1J64/Screenshot-1.png" alt="Deposit" width="3000" align="center"/>
+then withdraw 281.6$ ≈ 14.6$ profit trade
+
+And now i deposit 1068$
+<img src="https://i.ibb.co/Nrk76v6/Screenshot-5.png" alt="Deposit" width="3000" align="center"/>
+<img src="https://i.ibb.co/fk8q74F/Screenshot-2.png" alt="Deposit" width="3000" align="center"/>
+then withdraw 1139.6$ ≈ 71$ profit trade
