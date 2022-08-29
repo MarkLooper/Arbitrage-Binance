@@ -54,11 +54,11 @@ then withdraw 1139.6$ ≈ 71$ profit trade
 <div align="center">
   <h1>
     HOW CAN YOU START ARBITRAGE TRADING?
-  <h1/>
-  <h3>
+    <h3>
       1.Register an account binance.com invitation code:CPA_004AKJHDGM<br>
       2.Register an account kudx.com invitation code: LX96MW<br>
       3.We recommend starting at 2,500$ to get real profit<br>
       Do not believe? Try to exchange 15$ and you will understand everything
-  <h3/>
+    <h3/>
+  <h1/>
 <div/>
