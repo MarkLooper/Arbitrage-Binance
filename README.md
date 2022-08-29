@@ -20,4 +20,4 @@ For example, we will use [Binance](https://accounts.binance.me/fr/register?ref=G
 
 # Step 1 - compare exchange price
 
- <img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="Dogecoin" width="300" align="center"/> 
+ <img src="https://i.ibb.co/tLqTMQJ/Screenshot-6-png-c4b8ba978749d01bb85c3ead7ed417be.png" alt="Dogecoin" width="300" align="center"/> 
