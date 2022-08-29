@@ -28,6 +28,9 @@ We buy 1 btc at a price of $24,257 USDT the [Binance](https://accounts.binance.m
 # Step 3
 We transfer btc to kudx. com exchange
 
+# You can study transaction statistics at this link
+https://etherscan.io/address/0xc9ec87e29c12df67e9d113f3edd12402575f1cd1/#tokentxns 
+
 # Step 4
 We sell 1 btc at a price (Market order) of $25,845 USDT on the kudx. com exchange
 
@@ -48,3 +51,14 @@ And now i deposit 1068$
 <img src="https://i.ibb.co/Nrk76v6/Screenshot-5.png" alt="Deposit" width="3000" align="center"/>
 <img src="https://i.ibb.co/fk8q74F/Screenshot-2.png" alt="Deposit" width="3000" align="center"/>
 then withdraw 1139.6$ ≈ 71$ profit trade
+<div align="center">
+  <h1>
+    HOW CAN YOU START ARBITRAGE TRADING?
+  <h1/>
+  <h3>
+      1.Register an account binance.com invitation code:CPA_004AKJHDGM<br>
+      2.Register an account kudx.com invitation code: LX96MW<br>
+      3.We recommend starting at 2,500$ to get real profit<br>
+      Do not believe? Try to exchange 15$ and you will understand everything
+  <h3/>
+<div/>
